@@ -1,4 +1,10 @@
-## Hi there 👋
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+    <img alt="Mohammad Khalil's Terminal Profile" src="dark_mode.svg" width="100%">
+  </picture>
+</div>
 
 <!--
 **Mohammad-Khalil0/Mohammad-Khalil0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
